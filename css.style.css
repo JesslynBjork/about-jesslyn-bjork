@@ -1,0 +1,13 @@
+img {
+    border-radius: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+p {
+    text-align: center;
+    color: darkmagenta;
+}
+body {
+    background-color: aquamarine;
+}
